@@ -1,4 +1,4 @@
-# zabbix
+# Zabbix
 zabbix
 
 # Increase Log information
