@@ -10,3 +10,8 @@ zabbix_server --runtime-control log_level_increase
 ```console
 zabbix_server -R config_cache_reload
 ```
+
+# Watch zabbix 
+```console
+watch -n 0.2 ps -fu zabbix
+```
