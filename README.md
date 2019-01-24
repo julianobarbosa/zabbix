@@ -15,3 +15,8 @@ zabbix_server -R config_cache_reload
 ```console
 watch -n 0.2 ps -fu zabbix
 ```
+
+# About MySQL Optimize
+```console
+https://www.zabbix.com/forum/zabbix-troubleshooting-and-problems/10176-mysql-database-grow-how-optimize-parameters?t=9925
+```
